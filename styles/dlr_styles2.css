@@ -15,7 +15,7 @@
 /* HTML and Body styles */
 
 html {
-   background: url(dlr_back2.png), rgb(233, 200, 163);
+   background: url(./imgs/dlr_back2.png), rgb(233, 200, 163);
    font-family: Verdana, Geneva, sans-serif;
    height: 100%;
 }
